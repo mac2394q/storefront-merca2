@@ -1,0 +1,172 @@
+[03-Jul-2020 12:39:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:50
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(183): datasourceApi->executeQuery('SELECT * FROM l...', Object(PDO), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(31): tercerosModel->listOfTable('DESC', true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(64): tercerosServices::listadoTerceros('DESC', true)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(15): tercerosController::listadoTerceros(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(39): route in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 50
+[03-Jul-2020 12:50:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:50
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(183): datasourceApi->executeQuery('SELECT * FROM l...', Object(PDO), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(31): tercerosModel->listOfTable('DESC', true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(64): tercerosServices::listadoTerceros('DESC', true)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(15): tercerosController::listadoTerceros(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(39): route in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 50
+[03-Jul-2020 12:52:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:50
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(183): datasourceApi->executeQuery('SELECT * FROM l...', Object(PDO), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(31): tercerosModel->listOfTable('DESC', true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(64): tercerosServices::listadoTerceros('DESC', true)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(15): tercerosController::listadoTerceros(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(39): route in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 50
+[03-Jul-2020 12:53:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:50
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(183): datasourceApi->executeQuery('SELECT * FROM l...', Object(PDO), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(31): tercerosModel->listOfTable('rowid', 'DESC', true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(64): tercerosServices::listadoTerceros('DESC', true)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(15): tercerosController::listadoTerceros(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(3 in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 50
+[03-Jul-2020 12:56:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:51
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(183): datasourceApi->executeQuery('SELECT * FROM l...', Object(PDO), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(31): tercerosModel->listOfTable('rowid', 'DESC', true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(64): tercerosServices::listadoTerceros('DESC', true)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(15): tercerosController::listadoTerceros(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(3 in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 51
+[03-Jul-2020 12:57:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:51
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(183): datasourceApi->executeQuery('SELECT * FROM l...', Object(PDO), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(31): tercerosModel->listOfTable('rowid', 'DESC', true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(64): tercerosServices::listadoTerceros('DESC', true)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(15): tercerosController::listadoTerceros(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(3 in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 51
+[03-Jul-2020 12:58:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:51
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(183): datasourceApi->executeQuery('SELECT * FROM l...', Object(datasourceApi), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(31): tercerosModel->listOfTable('rowid', 'DESC', true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(64): tercerosServices::listadoTerceros('DESC', true)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(15): tercerosController::listadoTerceros(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerc in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 51
+[03-Jul-2020 13:04:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:51
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(182): datasourceApi->executeQuery('SELECT * FROM l...', Object(PDO), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(31): tercerosModel->listOfTable('rowid', 'DESC', true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(64): tercerosServices::listadoTerceros('DESC', true)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(15): tercerosController::listadoTerceros(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(3 in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 51
+[03-Jul-2020 13:15:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php:9
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(59): tercerosServices::registrarTerceros(Object(terceros))
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(11): tercerosController::registrarTerceros(Array)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(30): route::handlerRequest(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php(10): JTerceros::registrarTerceros()
+#5 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php on line 9
+[03-Jul-2020 13:16:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php:14
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(11): tercerosModel->saveCustom(Object(terceros))
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(59): tercerosServices::registrarTerceros(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(11): tercerosController::registrarTerceros(Array)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(30): route::handlerRequest(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php(10): JTerceros::registrarTerceros()
+#6 {main}
+   in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 14
+[03-Jul-2020 13:17:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php:14
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(11): tercerosModel->saveCustom(Object(terceros))
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(59): tercerosServices::registrarTerceros(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(11): tercerosController::registrarTerceros(Array)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(30): route::handlerRequest(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php(10): JTerceros::registrarTerceros()
+#6 {main}
+   in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 14
+[03-Jul-2020 13:17:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php:14
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(11): tercerosModel->saveCustom(Object(terceros))
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(59): tercerosServices::registrarTerceros(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(11): tercerosController::registrarTerceros(Array)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(30): route::handlerRequest(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php(10): JTerceros::registrarTerceros()
+#6 {main}
+   in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 14
+[03-Jul-2020 13:17:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php:14
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(11): tercerosModel->saveCustom(Object(terceros))
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(59): tercerosServices::registrarTerceros(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(11): tercerosController::registrarTerceros(Array)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(30): route::handlerRequest(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php(10): JTerceros::registrarTerceros()
+#6 {main}
+   in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 14
+[03-Jul-2020 13:17:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php:14
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(11): tercerosModel->saveCustom(Object(terceros))
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(59): tercerosServices::registrarTerceros(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(11): tercerosController::registrarTerceros(Array)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(30): route::handlerRequest(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php(10): JTerceros::registrarTerceros()
+#6 {main}
+   in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 14
+[03-Jul-2020 13:17:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php:14
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(11): tercerosModel->saveCustom(Object(terceros))
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(59): tercerosServices::registrarTerceros(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(11): tercerosController::registrarTerceros(Array)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(30): route::handlerRequest(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php(10): JTerceros::registrarTerceros()
+#6 {main}
+   in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 14
+[03-Jul-2020 13:23:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method tercerosModel::getTableName() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php:171
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php(56): tercerosModel->findByCustomAll('rowid', Object(tercerosModel), true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(71): tercerosServices::listadoAsignadosTercero('rowid', Object(tercerosModel), true)
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/tercerosController.php(19): tercerosController::listadoAsignadosTercero(Array)
+#3 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/controllers/routeController.php(9): tercerosController::handlerController(Array)
+#4 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php(50): route::handlerRequest(Array)
+#5 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/test in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 171
+[03-Jul-2020 14:41:32 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:41:32 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:42:06 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:42:06 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:44:48 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:44:48 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:44:51 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:44:51 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:46:34 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:46:34 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:53:02 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:53:02 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:53:07 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:53:07 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:53:28 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:53:28 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:53:37 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 14:53:37 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 16:18:06 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 16:18:06 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 16:18:07 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 16:18:07 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 2
+[03-Jul-2020 16:20:26 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 3
+[03-Jul-2020 16:20:26 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/JTerceros.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/modulesTesting/sarp/init.php on line 3
+[03-Jul-2020 16:21:58 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 3
+[03-Jul-2020 16:21:58 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/erp_sarp/plataforma_merca2/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 3
+[05-Jul-2020 21:41:46 America/Boise] PHP Fatal error:  Interface 'ITercerosFacturasAdapter' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/api/adapters/tercerosFacturasAdapter.php on line 3
+[06-Jul-2020 06:47:35 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/facturasModel.php on line 2
+[06-Jul-2020 06:47:43 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/facturasModel.php on line 2
+[07-Jul-2020 11:46:07 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/facturasModel.php on line 2
+[07-Jul-2020 11:46:08 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/facturasModel.php on line 2

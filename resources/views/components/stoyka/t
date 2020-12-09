@@ -1,0 +1,14 @@
+<div class="departments departments--open departments--fixed" data-departments-fixed-by=".block-slideshow">
+                                <div class="departments__body">
+                                    <div class="departments__links-wrapper">
+                                        <div class="departments__submenus-container"></div>
+                                        
+                                        <?php echo $componentsStoykaRender->asideMenuCategoria(); 
+                                        ?>
+                                    </div>
+                                </div><button class="departments__button"><svg class="departments__button-icon" width="18px" height="14px">
+                                        <use xlink:href="<?php echo VENDOR_SERVER . "merca2/images/sprite.svg#menu-18x14"; ?>"></use>
+                                    </svg> Secciones Disponibles <svg class="departments__button-arrow" width="9px" height="6px">
+                                        <use xlink:href="<?php echo VENDOR_SERVER . "merca2/images/sprite.svg#arrow-rounded-down-9x6"; ?>"></use>
+                                    </svg></button>
+                            </div>

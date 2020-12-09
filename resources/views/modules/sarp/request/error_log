@@ -1,0 +1,7 @@
+[01-Jul-2020 08:33:15 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/resources/views/modules/sarp/request/registrarTerceros.php on line 6
+[01-Jul-2020 08:33:15 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/providers/services/tercerosServices.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/resources/views/modules/sarp/request/registrarTerceros.php on line 6
+[01-Jul-2020 08:34:26 America/Boise] PHP Notice:  Undefined variable: modelTerceros in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/resources/views/modules/sarp/request/registrarTerceros.php on line 11
+[01-Jul-2020 08:34:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function __constructComplete() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/resources/views/modules/sarp/request/registrarTerceros.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/resources/views/modules/sarp/request/registrarTerceros.php on line 11

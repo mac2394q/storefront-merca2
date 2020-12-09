@@ -1,0 +1,59 @@
+[28-Jun-2020 21:12:39 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/test.php on line 5
+[28-Jun-2020 21:12:39 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/test.php on line 5
+[28-Jun-2020 21:13:01 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php on line 3
+[28-Jun-2020 21:13:01 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/conf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php on line 3
+[28-Jun-2020 21:13:30 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/testing/coreTesting/routes/JRoutes.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php on line 4
+[28-Jun-2020 21:13:30 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/testing/coreTesting/routes/JRoutes.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php on line 4
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'nombre' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 17
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 18
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 19
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'nombre' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 17
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 18
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 19
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'nombre' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 17
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 18
+[28-Jun-2020 21:38:19 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 19
+[28-Jun-2020 21:38:45 America/Boise] PHP Warning:  Illegal string offset 'nombre' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 17
+[28-Jun-2020 21:38:45 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 19
+[28-Jun-2020 21:38:45 America/Boise] PHP Warning:  Illegal string offset 'nombre' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 17
+[28-Jun-2020 21:38:45 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 19
+[28-Jun-2020 21:38:45 America/Boise] PHP Warning:  Illegal string offset 'nombre' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 17
+[28-Jun-2020 21:38:45 America/Boise] PHP Warning:  Illegal string offset 'ruta' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 19
+[28-Jun-2020 21:44:44 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2testing/coreTesting/routes/JRoutes.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php on line 4
+[28-Jun-2020 21:44:44 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2testing/coreTesting/routes/JRoutes.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php on line 4
+[29-Jun-2020 00:10:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function validarRuta() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php:20
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php(13): JRoutes::directoryPath(Array)
+#1 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 20
+[29-Jun-2020 00:11:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function validarRuta() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php:20
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php(13): JRoutes::directoryPath(Array)
+#1 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 20
+[29-Jun-2020 00:11:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function validarRuta() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php:20
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php(13): JRoutes::directoryPath(Array)
+#1 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 20
+[29-Jun-2020 00:11:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function validarRuta() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php:20
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php(13): JRoutes::directoryPath(Array)
+#1 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 20
+[29-Jun-2020 00:12:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function validarRuta() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php:20
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php(13): JRoutes::directoryPath(Array)
+#1 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 20
+[29-Jun-2020 00:13:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function validarRuta() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php:20
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php(13): JRoutes::directoryPath(Array)
+#1 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 20
+[29-Jun-2020 00:13:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'routes' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php:9
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php(28): JRoutes::validarRuta('/home1/portalxn...', '/home1/portalxn...')
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/initTest.php(13): JRoutes::directoryPath(Array)
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/routes/JRoutes.php on line 9

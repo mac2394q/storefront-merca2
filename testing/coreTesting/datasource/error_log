@@ -1,0 +1,208 @@
+[29-Jun-2020 01:18:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php on line 8
+[29-Jun-2020 01:18:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php on line 8
+[29-Jun-2020 01:18:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'datasourceApi' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php:6
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(8): JDatasource::initDatasource()
+#1 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php on line 6
+[29-Jun-2020 01:20:36 America/Boise] PHP Warning:  include_once(/home1/portalxn/public_html/conf.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 3
+[29-Jun-2020 01:20:36 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/portalxn/public_html/conf.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 3
+[29-Jun-2020 01:20:36 America/Boise] PHP Fatal error:  Interface 'datasource' not found in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 5
+[29-Jun-2020 01:21:22 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php on line 8
+[29-Jun-2020 01:31:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method JDatasource::__constructInit() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php on line 17
+[29-Jun-2020 01:36:28 America/Boise] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 27
+[29-Jun-2020 01:46:05 America/Boise] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ',' or ')' in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php on line 19
+[29-Jun-2020 03:17:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method JDatasource::queryConstructContextC() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php:32
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php on line 32
+[29-Jun-2020 03:30:47 America/Boise] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'objectToArray' not found or invalid function name in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 139
+[29-Jun-2020 19:07:31 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/model/tercerosModel.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php on line 4
+[29-Jun-2020 19:07:31 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/model/tercerosModel.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php on line 4
+[29-Jun-2020 19:08:28 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php on line 4
+[29-Jun-2020 19:08:28 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php on line 4
+[29-Jun-2020 19:09:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method terceros::toArrayModelId() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:140
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(46): datasourceApi->queryConstruct(Object(terceros), Array, 'llx_societe', 'C', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 140
+[29-Jun-2020 19:13:19 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function datasourceApi::executeUpdate(), 2 passed in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 51 and exactly 3 expected in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:91
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(74): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 91
+[29-Jun-2020 19:19:07 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function datasourceApi::executeUpdate(), 2 passed in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 51 and exactly 3 expected in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:91
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(74): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 91
+[29-Jun-2020 19:21:44 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function datasourceApi::executeQuery(), 1 passed in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php on line 46 and exactly 3 expected in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:47
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(46): datasourceApi->executeQuery('INSERT INTO llx...')
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 47
+[29-Jun-2020 19:22:54 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function datasourceApi::executeQuery(), 1 passed in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php on line 45 and exactly 3 expected in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:47
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...')
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 47
+[29-Jun-2020 19:24:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:55
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...')
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 55
+[29-Jun-2020 19:25:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:55
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 55
+[29-Jun-2020 19:25:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:55
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 55
+[29-Jun-2020 19:26:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:55
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 55
+[29-Jun-2020 19:27:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:55
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 55
+[29-Jun-2020 19:27:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:55
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 55
+[29-Jun-2020 19:27:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:55
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 55
+[29-Jun-2020 19:30:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:55
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeQuery('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 55
+[29-Jun-2020 19:34:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeUpdate('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:35:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeUpdate('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:35:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeUpdate('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:35:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeUpdate('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:35:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeUpdate('INSERT INTO llx...', true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:41:43 America/Boise] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, boolean given in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 100
+[29-Jun-2020 19:41:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(72): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:42:33 America/Boise] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, boolean given in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 100
+[29-Jun-2020 19:42:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(72): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:46:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method datasourceApi::setAttribute() in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(45): datasourceApi->executeUpdate('INSERT INTO llx...', Object(datasourceApi), NULL, true)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(32): JDatasource::queryConstructContextC()
+#2 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:48:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on array in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(72): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:49:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on array in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(72): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:51:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on array in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(72): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:53:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on array in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(72): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 19:53:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on array in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php(51): datasourceApi->executeUpdate('\r\n        INSER...', Array)
+#1 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/JDatasource.php(72): tercerosModel->saveCustom(Object(terceros))
+#2 /home1/portalxn/public_html/erp_sarp/plataforma_merca2/testing/coreTesting/datasource/initTest.php(39): JDatasource::queryExecutaSaveCustom()
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 97
+[29-Jun-2020 20:08:53 America/Boise] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 142
+[29-Jun-2020 20:09:58 America/Boise] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 142
+[29-Jun-2020 20:10:45 America/Boise] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 143
+[29-Jun-2020 20:11:01 America/Boise] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 143
+[29-Jun-2020 20:11:40 America/Boise] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/app/model/tercerosModel.php on line 143
+[01-Jul-2020 08:30:06 America/Boise] PHP Fatal error:  Declaration of datasourceApi::debugQuerySql($sql) must be compatible with IDatasourceService::debugQuerySql($sql, $debug) in /home1/portalxn/public_html/erp_sarp/plataforma_merca2/database/datasourceApi.php on line 5

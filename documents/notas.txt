@@ -1,0 +1,9 @@
+SELECT MAX(CAST(SUBSTRING(ref FROM 8) AS SIGNED)) as max FROM llx_facture WHERE ref LIKE 'FA____-%' AND entity IN (1)
+ultima para codigo facutra + 1
+
+SELECT * FROM `llx_facture` where ref = 'FA2006-0050'
+SELECT * FROM `llx_facturedet` where fk_facture = 84
+
+https://wiki.dolibarr.org/index.php/M%C3%B3dulo_Facturas_a_clientes_(desarrollador)
+
+SELECT llx_facturedet.rowid as 'CODIGO factura item',llx_product.label as 'etiqueta ',COUNT(*) as 'cantidad' FROM `llx_facturedet` join llx_product on(llx_facturedet.fk_product=llx_product.rowid) GROUP BY `fk_product`
