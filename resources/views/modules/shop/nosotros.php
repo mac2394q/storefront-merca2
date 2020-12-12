@@ -65,7 +65,7 @@ ini_set('display_errors', 0);
                                     <h2 class="about-us__team-title">Nuestros Equipo</h2>
                                     <div class="about-us__teammates teammates">
                                         <div class="post-card post-card--layout--grid post-card--size--lg">
-                                            <div class="post-card__image"><a href=""><img src="<?php echo VENDOR_SERVER . "merca2/images/team.jpg"; ?>" alt=""></a></div>
+                                            <div class="post-card__image"><a href=""><img src="<?php echo VENDOR_SERVER . "merca2/images/us.jpg"; ?>" alt=""></a></div>
                                             <div class="post-card__info">
                                                 <div class="post-card__category"><a href="https://www.facebook.com/merca2.co/">Merca2 Facebook</a></div>
                                                 <div class="post-card__name"><a href="">Tu mejor experiencia</a></div>

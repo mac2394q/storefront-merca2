@@ -552,7 +552,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/conf.php');
                             </span>
                             <div class="wrap-input100 validate-input"
                                 data-validate="Valid email is required: ex@abc.xyz">
-                                <input class="input100" type="text"  name="mail2" placeholder="Mail / CC">
+                                <input class="input100" type="text"  name="mail2" placeholder="Email">
                                 <span class="focus-input100"></span>
                                 <span class="symbol-input100">
                                     <i class="fa fa-envelope" aria-hidden="true"></i>

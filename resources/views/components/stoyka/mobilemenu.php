@@ -22,7 +22,7 @@ $componentsStoykaRender = new componentsStoyka();
                     <!-- <img src="http://merca2.cf/vendor/merca2/images/LOGOMERCA2-02.png" width="200px" height="40px"> -->
                     <!-- logo / end -->
                     <!-- mobile-logo / end -->
-                    <img src="http://merca2.cf/vendor/merca2/images/LOGOMERCA2-02.png" width="100" height="70px">
+                    <img src="http://merca2.cf/vendor/merca2/images/LOGOMERCA2-02.png" width="80" height="70px">
                 </a>
                 <div class="search search--location--mobile-header mobile-header__search">
                     <div class="search__body">
